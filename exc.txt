@@ -223,6 +223,10 @@ TenGigE0/0/1/0 is administratively down, line protocol is administratively down
   output flow control is off, input flow control is off
   Carrier delay (up) is 10 msec
   loopback not set,
+
+君不见黄河之水天上来
+君不见高堂明镜悲白发
+
   Last input never, output never
   Last clearing of "show interface" counters never
   5 minute input rate 0 bits/sec, 0 packets/sec
